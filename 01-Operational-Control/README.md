@@ -50,6 +50,18 @@ Target Outcomes for Q1:
 
 This cluster measures operational discipline through capital efficiency, not sales growth.
 
+
+## Governance Model
+
+Decision Owner: Head of Commercial Intelligence  
+Financial Oversight: CFO  
+Execution Accountability: Regional Operations Managers  
+Review Cycle: Monthly capital discipline review
+
+Escalation Rule:
+If inventory growth exceeds sales growth by >5% for 2 consecutive months, executive intervention is triggered.
+
+
 ## Cases in This Cluster
 
 1. Dead Stock Containment Crisis
