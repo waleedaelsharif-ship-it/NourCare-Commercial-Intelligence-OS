@@ -1,5 +1,6 @@
 # NourCare Pharmacies KSA  
 ## Commercial Intelligence Operating System (CIOS)
+An executive-grade simulation of capital discipline, commercial governance, and defensible decision architecture across a national pharmacy network.
 
 ---
 
