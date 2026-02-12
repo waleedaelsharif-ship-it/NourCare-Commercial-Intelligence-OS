@@ -38,6 +38,17 @@ Did this increase capital efficiency without compromising supply continuity?
 - Financing Cost Exposure
 
 ---
+## Capital Performance Target (Cluster 01)
+
+Target Outcomes for Q1:
+
+- Dead Stock Reduction: -20%
+- Inventory Turnover: 5.8 → 6.4
+- Working Capital Release: 20M+ SAR
+- ROIC Improvement: +1.2%
+- Cash Conversion Cycle Reduction: -6 days
+
+This cluster measures operational discipline through capital efficiency, not sales growth.
 
 ## Cases in This Cluster
 
