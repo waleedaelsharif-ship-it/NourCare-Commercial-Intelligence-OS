@@ -13,6 +13,16 @@ This repository represents a full-year executive simulation of commercial decisi
 The objective is not dashboard building.  
 The objective is capital discipline, decision defensibility, and regional profitability optimization.
 
+## Why This Matters
+
+Most pharmacy organizations optimize for revenue growth.
+
+Few optimize for capital efficiency.
+
+Revenue without capital discipline creates fragile expansion, seasonal cash strain, and hidden risk exposure.
+
+This system exists to correct that structural imbalance.
+
 ---
 
 ## Corporate Profile (Simulation Baseline)
