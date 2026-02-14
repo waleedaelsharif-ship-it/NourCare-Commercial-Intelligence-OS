@@ -2,6 +2,9 @@
 # Case 01 — Dead Stock Containment Crisis
 
 ---
+## Executive Summary
+
+A structural inventory correction initiative released 22M SAR in working capital ahead of Ramadan, improved inventory turnover, and increased ROIC from 13.8% to 15.1% without compromising supply continuity.
 
 ## Context
 
@@ -26,6 +29,9 @@ ROIC: 13.8%
 Cost of Capital (assumed): 9%
 
 ---
+## Visual Insight
+
+![Inventory vs Sales Divergence](Divergence_Chart.png)
 
 ## Analytical Diagnosis
 
@@ -38,6 +44,12 @@ Cost of Capital (assumed): 9%
 Pre-season over-purchasing driven by availability anxiety rather than velocity modeling.
 
 ---
+## Political & Behavioral Layer
+
+Regional managers resisted inventory reduction due to Ramadan availability anxiety.
+Supplier representatives pushed for higher pre-season purchase volumes to secure quarterly targets.
+Incentive structures were aligned to revenue growth rather than capital efficiency.
+
 
 ## Executive Decision
 
